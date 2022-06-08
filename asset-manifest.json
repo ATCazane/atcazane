@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/atcazane/static/css/main.d7da34c1.css",
+    "main.js": "/atcazane/static/js/main.61b131c2.js",
+    "static/media/5.jpg": "/atcazane/static/media/5.dfe7fdf4ee0edd897c27.jpg",
+    "static/media/video.mp4": "/atcazane/static/media/video.dcc22e59a590dc322837.mp4",
+    "static/media/18.png": "/atcazane/static/media/18.9705bad2ee0139163876.png",
+    "static/media/20.png": "/atcazane/static/media/20.c6dd02ecdd58dddd377d.png",
+    "static/media/17.png": "/atcazane/static/media/17.a2c0e4cfdc3fd6f9ab73.png",
+    "static/media/16.png": "/atcazane/static/media/16.ba3c888f90779a2c6ca4.png",
+    "static/media/21.png": "/atcazane/static/media/21.ef09888b4dcb89fb236b.png",
+    "static/media/14.png": "/atcazane/static/media/14.ee1e1cbe3ddd8b96776d.png",
+    "static/media/19.png": "/atcazane/static/media/19.e896bd6cbb8b89768a09.png",
+    "static/media/1.jpg": "/atcazane/static/media/1.a6b10af19cb6c3b72977.jpg",
+    "static/media/9.jpg": "/atcazane/static/media/9.adb0a02a8c0a417540f8.jpg",
+    "static/media/3.jpg": "/atcazane/static/media/3.8f89b218bb6b005de7d4.jpg",
+    "static/media/10.jpg": "/atcazane/static/media/10.c06c46782be40beaeebb.jpg",
+    "static/media/6.jpg": "/atcazane/static/media/6.16436cf1c1cd916d31a0.jpg",
+    "static/media/8.jpg": "/atcazane/static/media/8.348fb6b2329c61d084c8.jpg",
+    "static/media/7.jpg": "/atcazane/static/media/7.1909bb576f2e22af4b75.jpg",
+    "static/media/2.jpg": "/atcazane/static/media/2.20a5f1471ebe5d80b899.jpg",
+    "static/media/4.jpg": "/atcazane/static/media/4.f98abdd20cb99f19c053.jpg",
+    "static/media/12.jpg": "/atcazane/static/media/12.9eb45fc7d356bb459820.jpg",
+    "static/media/logo.png": "/atcazane/static/media/logo.546ef3371f3b363b0c93.png",
+    "static/media/at.jpg": "/atcazane/static/media/at.5955849bdf69db990de3.jpg",
+    "static/media/13.jpg": "/atcazane/static/media/13.bff10b6655b4f2956a63.jpg",
+    "static/media/15.jpg": "/atcazane/static/media/15.2288e8dda58bc8955271.jpg",
+    "static/media/11.jpg": "/atcazane/static/media/11.8ca555bef36db6984a26.jpg",
+    "static/media/svg1.svg": "/atcazane/static/media/svg1.19224165ae709b50079992f9a0c67cf4.svg",
+    "static/media/svg2.svg": "/atcazane/static/media/svg2.8be567e205a1796109997bc8d8d0038c.svg",
+    "index.html": "/atcazane/index.html",
+    "main.d7da34c1.css.map": "/atcazane/static/css/main.d7da34c1.css.map",
+    "main.61b131c2.js.map": "/atcazane/static/js/main.61b131c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.61b131c2.js"
+  ]
+}
